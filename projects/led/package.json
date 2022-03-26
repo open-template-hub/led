@@ -1,0 +1,26 @@
+{
+  "name": "@open-template-hub/led",
+  "description": "This library contains led ui component for UI Templates on Open Template Hub",
+  "version": "0.0.6",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^13.3.0",
+    "@angular/core": "^13.3.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "git repository": "https://github.com/open-template-hub/led",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/open-template-hub/led.git"
+  },
+  "keywords": [
+    "common",
+    "ui",
+    "template",
+    "open template hub",
+    "open template hub library",
+    "led"
+  ]
+}
