@@ -13,6 +13,16 @@ Open Template Hub - Led UI Component v1
 
 This library contains led ui component for UI Templates on [Open Template Hub](https://github.com/open-template-hub)
 
+<h3 align="center">
+  For demo click the image below ⬇️
+</h3>
+
+<p align="center">
+  <a href="https://web.opentemplatehub.com/status">
+    <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/demo/library/led-library-demo-light.png" alt="Screenshot" width="800px">
+  </a>
+</p>
+
 ## About the NPM Package
 
 ### Package Installation
