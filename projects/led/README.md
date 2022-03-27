@@ -19,7 +19,7 @@ This library contains led ui component for UI Templates on [Open Template Hub](h
 
 <p align="center">
   <a href="https://web.opentemplatehub.com/status">
-    <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/demo/library/led-library-demo-light.png" alt="Screenshot" width="800px">
+    <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/demo/library/led-library-demo-light.png" alt="Screenshot" width="700px">
   </a>
 </p>
 
