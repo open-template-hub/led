@@ -14,7 +14,7 @@ console.log(
     '\n' +
     '\n' +
     '<h1 align="center">\n' +
-    'Open Template Hub - Led UI Component v1\n' +
+    'Open Template Hub - Led UI Component v4\n' +
     '  <br/>\n' +
     '(outdated packages)\n' +
     '</h1>\n' +
