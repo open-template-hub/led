@@ -3,5 +3,9 @@
   "dest": "../../dist/led",
   "lib": {
     "entryFile": "src/public-api.ts"
-  }
+  },
+  "assets": [
+    "styles/util/util.scss",
+    "styles/led/led.scss"
+  ]
 }
